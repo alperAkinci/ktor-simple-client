@@ -1,3 +1,3 @@
 
-rootProject.name = "ktor-simple-client-app"
+rootProject.name = "ktor-simple-client"
 
